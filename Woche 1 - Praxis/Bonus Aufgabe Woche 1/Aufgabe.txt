@@ -1,0 +1,7 @@
+Java Einstieg Woche1 Bonus5
+======================
+In dieser Aufgabe üben wir, wie man eine Ausgabe auf dem Bildschirm erzeugen kann.
+
+Benutzt dazu die Methode **System.out.println()**.
+
+Schreibe ein Programm, das in einer Zeile <span style="color:blue">"Ich kann Text zurückgeben!"</span> ausgibt.
