@@ -1,0 +1,11 @@
+Java Einstieg Woche2 Kapitel1 Aufgabe3
+======================
+Eine Beschreibung zu dieser Aufgabe findest du [hier][1].
+
+Von den Geocachern weiß Duke, dass die Klasse **GPS** eine Methode **getCoordinates()** besitzt, welche einen String zurückgibt.
+
+Instanziiere in der Methode **main()** der Klasse **Story** ein Objekt der Klasse **GPS**.
+
+Rufe dann die Methode **getCoordinates()** auf dem instanziierten Objekt auf, mit einem String als Argument. Der Rückgabewert soll ausgegeben werden. Bei der Eingabe spezieller Argumente gibt die Methode die Positionsdaten zurück, die Duke sucht.
+
+Hinweis: Die Aufgabe lässt sich mit einem beliebigen Parameter lösen, du erhälst dann die Ausgabe **<span color="blue">"Keine GPS-Daten zu dieser Eingabe gefunden!"</span>**. Dies ist für den Abschluss der Aufgabe **ausreichend**, das Ermitteln der Positionsdaten ist **optional**. Die konkreten Parameter, die entsprechende Positionsdaten zurückgeben, findest du <a href="https://open.hpi.de/courses/javaeinstieg2020/items/6nIHgFx54KNc4lZ8cZtKho" target="_blank">in der Aufgabenbeschreibung</a>.
