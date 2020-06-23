@@ -1,0 +1,4 @@
+Java Einstieg Woche3 Bonus2
+======================
+Bei der Implementierung der Getter und Setter haben sich leider ein paar Flüchtigkeitsfehler eingeschlichen. Finde die Fehler in den
+Sichtbarkeitsmodifikatoren.
